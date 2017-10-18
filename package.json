@@ -1,0 +1,22 @@
+{
+  "name": "query-parser",
+  "version": "0.0.1",
+  "description": "Parses Lucene-like query syntax into a JSON format",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Deiz/query-parser.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Deiz/query-parser/issues"
+  },
+  "homepage": "https://github.com/Deiz/query-parser",
+  "dependencies": {
+    "express": "~4.16.2"
+  }
+}
